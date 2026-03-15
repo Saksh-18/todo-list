@@ -60,10 +60,3 @@ def clear():
 
 if __name__ == "__main__":
     application.run(debug=True)
-```
-
----
-
-**`requirements.txt`**
-```
-flask
